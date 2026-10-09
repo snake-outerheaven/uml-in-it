@@ -1,0 +1,4 @@
+* text=auto
+*.drawio text eol=lf diff=xml
+*.png binary
+*.svg text
